@@ -1,0 +1,226 @@
+/* ---------------------------------------------   OPEN TYPE FONT    ------------------------------------------------------ */
+@font-face {
+  font-family: "AntipastoPro";
+  src: url("./TEST_FONT/OPEN/AntipastoPro_trial.ttf") format("truetype");
+}
+.antipastropro {
+  font-family: "AntipastoPro";
+}
+@font-face {
+  font-family: "Auromiya";
+  src: url("./TEST_FONT/OPEN/Auromiya.ttf") format("truetype");
+}
+.Auromiya {
+  font-family: "Auromiya";
+}
+@font-face {
+  font-family: "AntipastoProMedium";
+  src: url("./TEST_FONT/OPEN/AntipastoPro-Medium_trial.ttf") format("truetype");
+}
+.AntipastoProMedium {
+  font-family: "AntipastoProMedium";
+}
+@font-face {
+  font-family: "Belugia";
+  src: url("./TEST_FONT/OPEN/Belugia.ttf") format("truetype");
+}
+.Belugia {
+  font-family: "Belugia";
+}
+@font-face {
+  font-family: "Binter";
+  src: url("./TEST_FONT/OPEN/Binter Display Font.ttf") format("truetype");
+}
+.Binter {
+  font-family: "Binter";
+}
+@font-face {
+  font-family: "Blessing";
+  src: url("./TEST_FONT/OPEN/Blessing.ttf") format("truetype");
+}
+.Blessing {
+  font-family: "Blessing";
+}
+@font-face {
+  font-family: "Borisna";
+  src: url("./TEST_FONT/OPEN/Borisna.ttf") format("truetype");
+}
+.Borisna {
+  font-family: "Borisna";
+}
+@font-face {
+  font-family: "Bulletto Killa";
+  src: url("./TEST_FONT/OPEN/Bulletto Killa.ttf") format("truetype");
+}
+.Bulletto {
+  font-family: "Bulletto Killa";
+}
+@font-face {
+  font-family: "Breath_Demo";
+  src: url("./TEST_FONT/OPEN/Breath_Demo.ttf") format("truetype");
+}
+.Breath_Demo {
+  font-family: "Breath_Demo";
+}
+
+@font-face {
+  font-family: "Bulletto Killa";
+  src: url("./TEST_FONT/OPEN/Bulletto Killa.ttf") format("truetype");
+}
+.Bulletto {
+  font-family: "Bulletto Killa";
+}
+
+@font-face {
+  font-family: "Carissa";
+  src: url("./TEST_FONT/OPEN/Carissa.ttf") format("truetype");
+}
+.Carissa {
+  font-family: "Carissa";
+}
+
+@font-face {
+  font-family: "Champagne & Limousines";
+  src: url("./TEST_FONT/OPEN/Champagne & Limousines.ttf") format("truetype");
+}
+.Champagne {
+  font-family: "Champagne & Limousines";
+}
+
+@font-face {
+  font-family: "CheekFlowerDemoRegular";
+  src: url("./TEST_FONT/OPEN/CheekFlowerDemoRegular.ttf") format("truetype");
+}
+.Breath {
+  font-family: "CheekFlowerDemoRegular";
+}
+
+@font-face {
+  font-family: "Breath";
+  src: url("./TEST_FONT/OPEN/Breath.ttf") format("truetype");
+}
+.Breath {
+  font-family: "Breath";
+}
+
+@font-face {
+  font-family: "Breath";
+  src: url("./TEST_FONT/OPEN/Breath.ttf") format("truetype");
+}
+.Breath {
+  font-family: "Breath";
+}
+
+@font-face {
+  font-family: "Breath";
+  src: url("./TEST_FONT/OPEN/Breath.ttf") format("truetype");
+}
+.Breath {
+  font-family: "Breath";
+}
+
+@font-face {
+  font-family: "Breath";
+  src: url("./TEST_FONT/OPEN/Breath.ttf") format("truetype");
+}
+.Breath {
+  font-family: "Breath";
+}
+
+@font-face {
+  font-family: "Breath";
+  src: url("./TEST_FONT/OPEN/Breath.ttf") format("truetype");
+}
+.Breath {
+  font-family: "Breath";
+}
+
+@font-face {
+  font-family: "Breath";
+  src: url("./TEST_FONT/OPEN/Breath.ttf") format("truetype");
+}
+.Breath {
+  font-family: "Breath";
+}
+
+
+
+
+
+
+/* ---------------------------------------------   TRUE TYPE FONT    ------------------------------------------------------ */
+@font-face {
+  font-family: "Modern";
+  src: url(".assets/fonts/ElegancePearl.otf") format("opentype");
+}
+
+:root {
+  /* Colors */
+  --background-color: #ffffff;
+  --default-color: #000000;
+  --heading-color: #000000;
+  --accent-color: #ff7b1a;
+  --surface-color: #ffffff;
+  --contrast-color: #ffffff;
+
+  scroll-behavior: smooth;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/*--------------------------------------------------------------
+# General Styling & Shared Classes
+--------------------------------------------------------------*/
+body {
+  color: var(--default-color);
+  font-family: "Modern";
+}
+
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a:hover {
+  color: color-mix(in srgb, var(--accent-color), transparent 25%);
+  text-decoration: none;
+}
+
+h1 {
+  color: var(--heading-color);
+  margin-bottom: 1.4rem !important;
+  font-size: 3.4rem !important;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--heading-color);
+  margin-bottom: 1.4rem !important;
+  font-size: 2.5rem !important;
+}
+p {
+  color: var(--default-color) !important;
+  margin-bottom: 1.4rem !important;
+  font-size: 1rem !important;
+}
+
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 2.85rem !important;
+  }
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    line-height: 40px !important;
+    font-size: 2.28rem !important;
+  }
+}
