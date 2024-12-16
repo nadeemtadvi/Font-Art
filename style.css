@@ -150,9 +150,326 @@
   font-family: "Diorama-Mudixon";
 }
 
+/* Diorama-Mudixon */
+@font-face {
+  font-family: "Diorama-Mudixon";
+  src: url("./TEST_FONT/OPEN/Diorama-Mudixon.ttf") format("truetype");
+}
+.Diorama-Mudixon {
+  font-family: "Diorama-Mudixon";
+}
+
+/* Galapagos-Demo */
+@font-face {
+  font-family: "Galapagos-Demo";
+  src: url("./TEST_FONT/OPEN/Galapagos-Demo.ttf") format("truetype");
+}
+.Galapagos-Demo {
+  font-family: "Galapagos-Demo";
+}
+
+/* Gardmun Kinsley */
+@font-face {
+  font-family: "Gardmun-Kinsley";
+  src: url("./TEST_FONT/OPEN/Gardmun Kinsley DEMO VERSION.ttf") format("truetype");
+}
+.Gardmun-Kinsley {
+  font-family: "Gardmun-Kinsley";
+}
+
+/* Garelina Regular */
+@font-face {
+  font-family: "Garelina-Regular";
+  src: url("./TEST_FONT/OPEN/Garelina Regular.ttf") format("truetype");
+}
+.Garelina-Regular {
+  font-family: "Garelina-Regular";
+}
+
+/* GatsbyFLF */
+@font-face {
+  font-family: "GatsbyFLF";
+  src: url("./TEST_FONT/OPEN/GatsbyFLF.ttf") format("truetype");
+}
+.GatsbyFLF {
+  font-family: "GatsbyFLF";
+}
+
+/* Geffroy Eleonora */
+@font-face {
+  font-family: "Geffroy-Eleonora";
+  src: url("./TEST_FONT/OPEN/Geffroy Eleonora.ttf") format("truetype");
+}
+.Geffroy-Eleonora {
+  font-family: "Geffroy-Eleonora";
+}
+
+/* Getboreg TrialOnly-Regular */
+@font-face {
+  font-family: "Getboreg-Regular";
+  src: url("./TEST_FONT/OPEN/Getboreg TrialOnly-Regular.ttf") format("truetype");
+}
+.Getboreg-Regular {
+  font-family: "Getboreg-Regular";
+}
+
+/* Graybeard-Regular */
+@font-face {
+  font-family: "Graybeard-Regular";
+  src: url("./TEST_FONT/OPEN/Graybeard-Regular.ttf") format("truetype");
+}
+.Graybeard-Regular {
+  font-family: "Graybeard-Regular";
+}
+
+/* Heartwarming */
+@font-face {
+  font-family: "Heartwarming";
+  src: url("./TEST_FONT/OPEN/Heartwarming.ttf") format("truetype");
+}
+.Heartwarming {
+  font-family: "Heartwarming";
+}
+
+/* HighlandGothicFLF */
+@font-face {
+  font-family: "HighlandGothicFLF";
+  src: url("./TEST_FONT/OPEN/HighlandGothicFLF.ttf") format("truetype");
+}
+.HighlandGothicFLF {
+  font-family: "HighlandGothicFLF";
+}
+
+/* HTVelvetWhisper */
+@font-face {
+  font-family: "HTVelvetWhisper";
+  src: url("./TEST_FONT/OPEN/HTVelvetWhisper-Regular-PersonalUse.ttf") format("truetype");
+}
+.HTVelvetWhisper {
+  font-family: "HTVelvetWhisper";
+}
+
+/* JosefinSans-Regular */
+@font-face {
+  font-family: "JosefinSans-Regular";
+  src: url("./TEST_FONT/OPEN/JosefinSans-Regular.ttf") format("truetype");
+}
+.JosefinSans-Regular {
+  font-family: "JosefinSans-Regular";
+}
+
+/* Juliet */
+@font-face {
+  font-family: "Juliet";
+  src: url("./TEST_FONT/OPEN/Juliet.ttf") format("truetype");
+}
+.Juliet {
+  font-family: "Juliet";
+}
+
+/* Kushin */
+@font-face {
+  font-family: "Kushin";
+  src: url("./TEST_FONT/OPEN/Kushin.ttf") format("truetype");
+}
+.Kushin {
+  font-family: "Kushin";
+}
+
+/* Lato-Regular */
+@font-face {
+  font-family: "Lato-Regular";
+  src: url("./TEST_FONT/OPEN/Lato-Regular.ttf") format("truetype");
+}
+.Lato-Regular {
+  font-family: "Lato-Regular";
+}
+
+/* LowMagneticDemoRegular */
+@font-face {
+  font-family: "LowMagnetic";
+  src: url("./TEST_FONT/OPEN/LowMagneticDemoRegular.ttf") format("truetype");
+}
+.LowMagnetic {
+  font-family: "LowMagnetic";
+}
+
+/* Luxury */
+@font-face {
+  font-family: "Luxury";
+  src: url("./TEST_FONT/OPEN/Luxury.ttf") format("truetype");
+}
+.Luxury {
+  font-family: "Luxury";
+}
+
+/* Magilio */
+@font-face {
+  font-family: "Magilio";
+  src: url("./TEST_FONT/OPEN/Magilio.ttf") format("truetype");
+}
+.Magilio {
+  font-family: "Magilio";
+}
+
+/* Milkyway DEMO */
+@font-face {
+  font-family: "Milkyway-DEMO";
+  src: url("./TEST_FONT/OPEN/Milkyway DEMO.ttf") format("truetype");
+}
+.Milkyway-DEMO {
+  font-family: "Milkyway-DEMO";
+}
+
+/* PlayfairDisplay-Regular */
+@font-face {
+  font-family: "PlayfairDisplay-Regular";
+  src: url("./TEST_FONT/OPEN/Playfair Display-Regular.ttf") format("truetype");
+}
+.PlayfairDisplay-Regular {
+  font-family: "PlayfairDisplay-Regular";
+}
+
+/* Raleway-Regular */
+@font-face {
+  font-family: "Raleway-Regular";
+  src: url("./TEST_FONT/OPEN/Raleway-Regular.ttf") format("truetype");
+}
+.Raleway-Regular {
+  font-family: "Raleway-Regular";
+}
+
+/* Santa Manta */
+@font-face {
+  font-family: "Santa-Manta";
+  src: url("./TEST_FONT/OPEN/Santa Manta.ttf") format("truetype");
+}
+.Santa-Manta {
+  font-family: "Santa-Manta";
+}
+
+/* Sugar Magic */
+@font-face {
+  font-family: "Sugar-Magic";
+  src: url("./TEST_FONT/OPEN/Sugar Magic - Personal Use Only.ttf") format("truetype");
+}
+.Sugar-Magic {
+  font-family: "Sugar-Magic";
+}
+
+/* Wasted Vindey */
+@font-face {
+  font-family: "Wasted-Vindey";
+  src: url("./TEST_FONT/OPEN/Wasted-Vindey.ttf") format("truetype");
+}
+.Wasted-Vindey {
+  font-family: "Wasted-Vindey";
+}
 
 
+@font-face {
+  font-family: "Ringoven";
+  src: url("./TEST_FONT/OTF/Ringoven.otf") format("opentype");
+}
+.Ringoven {
+  font-family: "Ringoven";
+}
 
+@font-face {
+  font-family: "RoadsterFree";
+  src: url("./TEST_FONT/OTF/Roadster Free.otf") format("opentype");
+}
+.RoadsterFree {
+  font-family: "RoadsterFree";
+}
+
+@font-face {
+  font-family: "Roald";
+  src: url("./TEST_FONT/OTF/Roald.otf") format("opentype");
+}
+.Roald {
+  font-family: "Roald";
+}
+
+@font-face {
+  font-family: "RollstonDemo";
+  src: url("./TEST_FONT/OTF/Rollston-Demo.otf") format("opentype");
+}
+.RollstonDemo {
+  font-family: "RollstonDemo";
+}
+
+@font-face {
+  font-family: "RudbeckiaRegular";
+  src: url("./TEST_FONT/OTF/Rudbeckia-Regular.otf") format("opentype");
+}
+.RudbeckiaRegular {
+  font-family: "RudbeckiaRegular";
+}
+
+@font-face {
+  font-family: "Rue";
+  src: url("./TEST_FONT/OTF/Rue.otf") format("opentype");
+}
+.Rue {
+  font-family: "Rue";
+}
+
+@font-face {
+  font-family: "SantaManta";
+  src: url("./TEST_FONT/OTF/Santa Manta.otf") format("opentype");
+}
+.SantaManta {
+  font-family: "SantaManta";
+}
+
+@font-face {
+  font-family: "ShaileyMorganceRegular";
+  src: url("./TEST_FONT/OTF/ShaileyMorgance-Regular.otf") format("opentype");
+}
+.ShaileyMorganceRegular {
+  font-family: "ShaileyMorganceRegular";
+}
+
+@font-face {
+  font-family: "SKModernistRegular";
+  src: url("./TEST_FONT/OTF/Sk-Modernist-Regular.otf") format("opentype");
+}
+.SKModernistRegular {
+  font-family: "SKModernistRegular";
+}
+
+@font-face {
+  font-family: "SolstikbaRegular";
+  src: url("./TEST_FONT/OTF/Solstikba-Regular.otf") format("opentype");
+}
+.SolstikbaRegular {
+  font-family: "SolstikbaRegular";
+}
+
+@font-face {
+  font-family: "SSRomantic";
+  src: url("./TEST_FONT/OTF/SSRomantic.otf") format("opentype");
+}
+.SSRomantic {
+  font-family: "SSRomantic";
+}
+
+@font-face {
+  font-family: "ToxigenesisBd";
+  src: url("./TEST_FONT/OTF/toxigenesis bd.otf") format("opentype");
+}
+.ToxigenesisBd {
+  font-family: "ToxigenesisBd";
+}
+
+@font-face {
+  font-family: "TranscityDemo";
+  src: url("./TEST_FONT/OTF/Transcity DEMO.otf") format("opentype");
+}
+.TranscityDemo {
+  font-family: "TranscityDemo";
+}
 
 
 /* ---------------------------------------------   TRUE TYPE FONT    ------------------------------------------------------ */
