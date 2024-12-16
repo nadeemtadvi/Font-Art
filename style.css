@@ -91,56 +91,63 @@
   font-family: "CheekFlowerDemoRegular";
   src: url("./TEST_FONT/OPEN/CheekFlowerDemoRegular.ttf") format("truetype");
 }
-.Breath {
+.CheekFlowerDemoRegular {
   font-family: "CheekFlowerDemoRegular";
 }
 
 @font-face {
-  font-family: "Breath";
-  src: url("./TEST_FONT/OPEN/Breath.ttf") format("truetype");
+  font-family: "Chunk Five Print";
+  src: url("./TEST_FONT/OPEN/Chunk Five Print.ttf") format("truetype");
 }
-.Breath {
-  font-family: "Breath";
-}
-
-@font-face {
-  font-family: "Breath";
-  src: url("./TEST_FONT/OPEN/Breath.ttf") format("truetype");
-}
-.Breath {
-  font-family: "Breath";
+.Chunk {
+  font-family: "Chunk Five Print";
 }
 
 @font-face {
-  font-family: "Breath";
-  src: url("./TEST_FONT/OPEN/Breath.ttf") format("truetype");
+  font-family: "Cocogoose-Condensed-Regular-trial";
+  src: url("./TEST_FONT/OPEN/Cocogoose-Condensed-Regular-trial.ttf") format("truetype");
 }
-.Breath {
-  font-family: "Breath";
-}
-
-@font-face {
-  font-family: "Breath";
-  src: url("./TEST_FONT/OPEN/Breath.ttf") format("truetype");
-}
-.Breath {
-  font-family: "Breath";
+.Cocogoose {
+  font-family: "Cocogoose-Condensed-Regular-trial";
 }
 
 @font-face {
-  font-family: "Breath";
-  src: url("./TEST_FONT/OPEN/Breath.ttf") format("truetype");
+  font-family: "DaisyTacky-Regular";
+  src: url("./TEST_FONT/OPEN/DaisyTacky-Regular.ttf") format("truetype");
 }
-.Breath {
-  font-family: "Breath";
+.DaisyTacky-Regular {
+  font-family: "DaisyTacky-Regular";
 }
 
 @font-face {
-  font-family: "Breath";
-  src: url("./TEST_FONT/OPEN/Breath.ttf") format("truetype");
+  font-family: "Danford";
+  src: url("./TEST_FONT/OPEN/Danford.ttf") format("truetype");
 }
-.Breath {
-  font-family: "Breath";
+.Danford {
+  font-family: "Danford";
+}
+
+@font-face {
+  font-family: "Dangmen";
+  src: url("./TEST_FONT/OPEN/Dangmen.ttf") format("truetype");
+}
+.Dangmen {
+  font-family: "Dangmen";
+}
+
+@font-face {
+  font-family: "Danviska";
+  src: url("./TEST_FONT/OPEN/Danviska.ttf") format("truetype");
+}
+.Danviska {
+  font-family: "Danviska";
+}
+@font-face {
+  font-family: "Diorama-Mudixon";
+  src: url("./TEST_FONT/OPEN/Diorama-Mudixon.ttf") format("truetype");
+}
+.Diorama-Mudixon {
+  font-family: "Diorama-Mudixon";
 }
 
 
